@@ -65,9 +65,7 @@ body {
 .item-column {
   position: relative;
 }
-.top-header .name {
-  font-size: 26px;
-}
+
 .nav ul {
   list-style-type: none;
   font-size: 14px;
@@ -84,6 +82,10 @@ body {
 }
 #about {
   background-color: #f6d2b8;
+}
+
+h1 {
+  font-size: 26px;
 }
 .picture.left::before {
   background-color: #e5975f;
@@ -125,7 +127,7 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #beb45a;
+  background-color: #756b12;
   border-radius: 0;
 }
 .item-column {
