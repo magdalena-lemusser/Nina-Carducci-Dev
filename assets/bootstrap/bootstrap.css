@@ -6933,6 +6933,7 @@ fieldset:disabled .btn {
 
 .visually-hidden,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
+  all: unset;
   color: inherit !important;
   background-color: transparent !important;
   position: absolute !important;
